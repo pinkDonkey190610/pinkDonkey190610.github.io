@@ -3,7 +3,7 @@
   <title>pinkDonkey</title>
   
   
-  <link href="//atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2020-05-10T04:15:41.060Z</updated>
